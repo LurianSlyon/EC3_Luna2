@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EC3_Luna</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="info">Este programa lista emojis.\n
+                        Se demorara un poco porque son bastantes tenga paciencia.\n
+                        Gracias</string>
+</resources>

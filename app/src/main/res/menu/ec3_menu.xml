@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/listFragment"
+        android:title="Lista"
+        android:icon="@drawable/baseline_list"></item>
+    <item android:id="@id/favoriteFragment"
+        android:title="Favorito"
+        android:icon="@drawable/baseline_favorite"></item>
+    <item android:id="@id/infoFragment"
+        android:title="info"
+        android:icon="@drawable/baseline_info"></item>
+</menu>
